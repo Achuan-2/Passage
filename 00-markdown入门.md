@@ -14,7 +14,7 @@
 
 ## 一、为什么要用markdown？
 markdown是一种语言，而不是二进制文件格式，Markdown 实际上是 HTML 的一种简写，在显示时会『解压缩』成 HTML。可以纯文本读和写，相比word或者其他富文本工具，更专注于创作，简洁规范的排版更易读，生成的md文件也小得多。
-![Image](https://pic4.zhimg.com/80/v2-c1cd09b0f1d91126b615ce3518fc7817.png)
+
 
 ## 二、VSCode使用Zhihu插件
 [插件介绍地址，插件作者——牛岱 ](https://zhuanlan.zhihu.com/p/106057556)
