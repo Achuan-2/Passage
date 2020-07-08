@@ -1,8 +1,13 @@
 
 **《Python 生物信息学数据管理》学习笔记| 每日更新**
-![20200708202642](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708202642.png)
-[TOC]
-
+- [计算ΔG](#计算δg)
+- [计算胰岛素序列中的氨基酸频率](#计算胰岛素序列中的氨基酸频率)
+- [python字符串和数组反转](#python字符串和数组反转)
+- [Python从键盘输入多行文本数据的方法](#python从键盘输入多行文本数据的方法)
+- [fasta 数据处理](#fasta-数据处理)
+- [求DNA的互补序列](#求dna的互补序列)
+- [统计多条序列上不同位点的碱基频率](#统计多条序列上不同位点的碱基频率)
+- [python中如何把str转float并控制位数](#python中如何把str转float并控制位数)
 
 2020/5/2 
 ## 计算ΔG   
@@ -181,8 +186,7 @@ for position, col_seq in column_dict.items():
 输出结果:
 ![Image](https://pic4.zhimg.com/80/v2-8b9c303b2ad2aa87ad99de6d9d43d492.png)
 ![Image](https://pic4.zhimg.com/80/v2-f1ba9c590891a7ec20d103d4293064f9.png)
-![UTOOLS1594208410881.png](http://yanxuan.nosdn.127.net/4ab293d78ae7d84184fe8b2098612c30.png)
-![](https://github.com/youyou-579/123/blob/master/2.8.jpg?raw=true)
+
 
 2020/05/05
 
