@@ -1,6 +1,4 @@
-#! https://zhuanlan.zhihu.com/p/130675207
 # 专注内容创作，使用VScode来发布知乎文章
-
 
 本文目录：  
 - [专注内容创作，使用VScode来发布知乎文章](#专注内容创作使用vscode来发布知乎文章)
@@ -66,6 +64,7 @@ markdown是一种语言，而不是二进制文件格式，Markdown 实际上是
  
  想要换行，在VSCode至少需要在行后**打两个空格** 然后回车，或者回车两次  
  如果觉得这个设定不习惯，可以在设置搜索`preview` ,勾选  `markdown>preview: breaks`, 就可得到enter换行效果啦!
+ 好奇怪，为什么原来的能够正常显示，然而放到Github却不能正常换行？
  > 注意这个只是预览效果改变，然而上传到其他网站依然还是需要两个空格换行的！
 ![20200708204845](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708204845.png)
 
