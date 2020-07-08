@@ -1,6 +1,6 @@
 
 **《Python 生物信息学数据管理》学习笔记| 每日更新**
-
+![20200708202642](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708202642.png)
 [TOC]
 
 
