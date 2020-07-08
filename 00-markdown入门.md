@@ -22,12 +22,15 @@ markdown是一种语言，而不是二进制文件格式，Markdown 实际上是
 ### 1. 内容发布
 在问题下或者更新自己的文章, 复制到文件顶部  
 
+
 >#! +网址
->新版本发布会默认加上文章链接  
+>新版本发布会默认加上文章链接
+杀杀杀杀杀杀杀杀杀
+水水水水水水  
 
 **ps：第一个一级标题会被当做文章标题**   
-发布按钮如下:
-![20200708204605](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708204605.png)
+发布按钮如下:  
+![20200708204605](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708204605.png)  
 ![20200708204650](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708204650.png)
 
 
