@@ -27,8 +27,8 @@ markdown是一种语言，而不是二进制文件格式，Markdown 实际上是
 
 **ps：第一个一级标题会被当做文章标题**   
 发布按钮如下:
-![Image](https://pic4.zhimg.com/80/v2-3c6270f4d5504ec008e994c9087311f0.png)
-![Image](https://pic4.zhimg.com/80/v2-c9da9693aa92481696a28bb1788f8e4b.png)  
+![20200708204605](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708204605.png)
+![20200708204650](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708204650.png)
 
 
 ### 2. 上传图片的三种方式
@@ -63,7 +63,8 @@ markdown是一种语言，而不是二进制文件格式，Markdown 实际上是
  
  想要换行，在VSCode至少需要在行后**打两个空格** 然后回车，或者回车两次  
  如果觉得这个设定不习惯，可以在设置搜索`preview` ,勾选  `markdown>preview: breaks`, 就可得到enter换行效果啦!
- ![Image](https://pic4.zhimg.com/80/v2-0556a3ce05c7b3a8c37686af85cf1dba.png)
+ > 注意这个只是预览效果改变，然而上传到其他网站依然还是需要两个空格换行的！
+![20200708204845](https://raw.githubusercontent.com/Achuan-2/Passage/master/images/20200708204845.png)
 
 * ### 多级标题
 Markdown使用`#`的个数来表示级别  
